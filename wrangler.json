@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "chiregroup2",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "825741f0-2310-44bb-8cb0-74080ac67ff0",
+      "database_name": "chiregroup-2"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
